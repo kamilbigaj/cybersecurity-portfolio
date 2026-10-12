@@ -16,6 +16,14 @@ A basic Wireshark investigation covering DNS resolution, TCP connection establis
 - Source material: [TryHackMe — Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
 - Topics: Wireshark, DNS, TCP, TLS, network traffic analysis
 
+### Failed SSH Authentication Investigation
+
+A controlled Ubuntu lab exercise analysing three failed SSH login attempts in system logs.
+
+- Repository: [failed-ssh-authentication-investigation](https://github.com/kamilbigaj/failed-ssh-authentication-investigation)
+- Topics: Linux, SSH, authentication logs, `journalctl`, incident investigation
+
+
 ## Current Learning Focus
 
 - Network traffic analysis
